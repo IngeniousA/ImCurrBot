@@ -1,2 +1,3 @@
 # ImCurrBot
-ImCurr: Telegram Bot Edition
+ImCurr: Bot Edition
+Test at @imcurrbot
